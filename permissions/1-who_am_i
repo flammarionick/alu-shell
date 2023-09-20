@@ -1,2 +1,2 @@
 #!/bin/bash
-username=$(whoami) echo "Current username: $username"
+echo "Current username: $username"
