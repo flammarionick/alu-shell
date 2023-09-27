@@ -1,0 +1,2 @@
+alias
+= makes commands shorter
